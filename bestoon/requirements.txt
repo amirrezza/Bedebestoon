@@ -21,7 +21,7 @@ oneconf==0.3.7.14.4.1
 PAM==0.4.2
 peewee==2.9.2
 pexpect==3.1
-Pillow==2.3.0
+Pillow==9.3.0
 piston-mini-client==0.7.5
 pycket==0.3.0
 pycrypto==2.6.1
